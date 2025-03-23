@@ -321,7 +321,6 @@ Members Team Perks:
 * profile posted on the Team page of the OpenFaaS website
 * membership of the GitHub organisations openfaas/openfaas-incubator
 
-Upon request and subject to availability:
 * 1:1 coaching & mentorship
 * help with speaking opportunities and CfP submissions
 * help with CV, resume and LinkedIn profile
