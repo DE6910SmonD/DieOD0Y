@@ -38,7 +38,6 @@ Check out [#3975](https://github.com/PhilJay/MPAndroidChart/pull/3975) for an ex
   Don't load your commits with tons of changes, this makes it hard to follow what is happening. However, if you have done a lot of work, and there are commits and merges all over the place, squash them down into fewer commits.
   
   It's easy, just look around!
-  
   * **Write good commit messages**  
   You may prefer [Tim Pope's style], you might like the [commitizen-friendly] way. Regardless of the color you pick, you MUST stay within the lines!  
   ```
